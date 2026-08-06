@@ -3,6 +3,7 @@
 DeepFER is a deep learning project that classifies human facial expressions into seven emotion categories using the FER2013 dataset. The project demonstrates the complete machine learning workflow, including data preprocessing, exploratory data analysis, CNN model development, training, evaluation, and prediction.
 
 ---
+<img width="636" height="310" alt="image" src="https://github.com/user-attachments/assets/ffdd6525-5977-409f-ac53-e5527bc69933" />
 
 ## Project Overview
 
