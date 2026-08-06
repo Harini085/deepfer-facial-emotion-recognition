@@ -1,0 +1,11 @@
+tensorflow-cpu>=2.15,<3.0
+opencv-python-headless>=4.8
+numpy>=1.24
+pandas>=2.0
+Pillow>=10.0
+
+# Streamlit app
+streamlit>=1.30
+streamlit-webrtc>=0.47
+av>=11.0
+plotly>=5.18
