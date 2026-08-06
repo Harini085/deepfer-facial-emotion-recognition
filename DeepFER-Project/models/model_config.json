@@ -1,0 +1,13 @@
+{
+  "best_model_name": "ViT_Scratch",
+  "input_size": 48,
+  "class_names": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ]
+}
