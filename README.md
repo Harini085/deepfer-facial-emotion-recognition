@@ -1,5 +1,10 @@
 # 😊 DeepFER: Facial Emotion Recognition Using Deep Learning
 
+## 🚀 Live Demo
+
+- 🌐 **Web Application:** https://deepfer-facial-emotion-recognition-app.streamlit.app/
+
+
 DeepFER is a deep learning project that classifies human facial expressions into seven emotion categories using the FER2013 dataset. The project demonstrates the complete machine learning workflow, including data preprocessing, exploratory data analysis, CNN model development, training, evaluation, and prediction.
 
 ---
