@@ -93,14 +93,31 @@ The model is evaluated using:
 ## Repository Structure
 
 ```
-├── data/
-├── notebooks/
-│   └── deepfer-harini-final.ipynb
-├── models/
-├── images/
-├── README.md
-├── requirements.txt
-└── LICENSE
+deepfer-facial-emotion-recognition/        (GitHub repo root)
+└── DeepFER-Project/
+    ├── app/
+    │   ├── config.py
+    │   ├── custom_layers.py
+    │   ├── model_loader.py
+    │   ├── utils.py
+    │   ├── predict.py
+    │   ├── realtime_video.py
+    │   ├── streamlit_app.py
+    │   ├── haarcascade_frontalface_default.xml
+    │   ├── requirements.txt      # duplicated here so Streamlit Cloud finds it
+    │   └── runtime.txt           # next to the entrypoint file
+    ├── models/
+    │   ├── best_model.keras
+    │   ├── class_names.pkl
+    │   ├── label_encoder.pkl
+    │   └── model_config.json
+    ├── notebooks/
+    │   └── DeepFER_Combined.ipynb
+    ├── requirements.txt
+    ├── runtime.txt
+    ├── train.py
+    ├── PLACEHOLDER_NOTICE.md
+    └── README.md
 ```
 
 ---
